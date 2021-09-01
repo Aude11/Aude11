@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aude11
+- 👋 Hi, I’m Aude
 - 👀 I’m interested in Python and React
 - 🌱 I’m currently learning React, TypeScript and Flask
 - 💞️ I’m looking to collaborate on Python, React, JavaScript and TypeScript
